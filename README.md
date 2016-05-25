@@ -1,6 +1,6 @@
-# helloworld
+# hello-world
 
-  public class HelloWorid{
+  public class sayHello{
   
           public static void main(String[] args){
           
